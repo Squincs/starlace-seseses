@@ -1,0 +1,31 @@
+{
+  "//1": "describes your app and its dependencies",
+  "//2": "https://docs.npmjs.com/files/package.json",
+  "//3": "updating this file will download and update your packages",
+  "name": "YnsEmreArpaci",
+  "version": "0.0.1",
+  "description": "YnsEmreArpaci.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.2",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "node-opus": "^0.3.3",
+    "opusscript": "^0.0.8"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}

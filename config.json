@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": ["452093350921764874"],
+        "ACTIVITY_TEXT": "Welcome Kadim Lace",
+        "GUILD_ID": "823161820243558400",
+        "VOICE_CHANNEL": "829969105221713951",
+        "MIN_STAFF_ROLE": "832144463949201419"
+    },
+    "FILES": {
+        "WELCOME": "ses/welcome.mp3",
+        "STAFF": "ses/yetkiliodaya.mp3"
+    },
+    "token": "ODMzNjEwMjU2NTIwOTcwMjcw.YH02DA.CQpvj9d0XUgFKJ4J_KUvOx83Yjg"
+}
